@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../source/config/reset.scss","../source/secoes/produtos.scss","../source/config/cores.scss","../source/main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;ACFJ;EACI,kBCHW;;;ACKf;EACI,kBDNW;;;ACQf;EACI,kBDPS;;ACQT;EACI,ODVO;;;ACaf;EACI;EACA,kBDfW;ECgBX,ODfS;;ACgBT;EACI,kBDlBO","file":"main.css"}

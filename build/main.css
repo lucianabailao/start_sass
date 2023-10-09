@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.produtos {
+  background-color: #c4b4b4;
+}
+
+body {
+  background-color: #c4b4b4;
+}
+
+header {
+  background-color: antiquewhite;
+}
+header h1 {
+  color: #111;
+}
+
+button {
+  padding: 16px;
+  background-color: #111;
+  color: antiquewhite;
+}
+button:hover {
+  background-color: #111;
+}
+
+/*# sourceMappingURL=main.css.map */

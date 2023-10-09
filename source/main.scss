@@ -1,0 +1,23 @@
+@use'config/reset';
+@use 'config/cores';
+@use 'secoes/produtos';
+
+
+body{
+    background-color: cores.$corPrincipal;
+}
+header{
+    background-color: cores.$corDeFundo;
+    h1{
+        color: cores.$corSecundaria;
+    }
+}
+button{
+    padding: 16px;
+    background-color :cores.$corSecundaria;
+    color: cores.$corDeFundo;
+    &:hover{
+        background-color: cores.$corSecundaria;
+    }
+}
+
